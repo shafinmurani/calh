@@ -6,6 +6,7 @@ For example:
 - Manjaro
 - Arch linux
 - Garuda linux
+- Endavour OS
 and many more
 
 # Steps to follow
