@@ -10,7 +10,7 @@ and many more
 
 # Steps to follow
 
-First we need to clone this repository : `git clone github.com/shafinmurani/calh`
+First we need to clone this repository : `git clone https://github.com/shafinmurani/calh.git`
 
 Change directory into the repo we just cloned : `cd calh/`
 
