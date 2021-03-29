@@ -7,4 +7,4 @@ sudo rm -rf strap.sh
 printf "\n"
 printf "\n"
 printf "Your machine is ready.\n"
-printf "HACK THE PLANET!!!"
+printf "HACK THE PLANET!!!\n"
