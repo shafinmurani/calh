@@ -1,4 +1,5 @@
 # CALH
+NOTE : THIS IS HOW I SETUP MANJARO LINUX FOR HACKING/CYBER SECURITY YOU MIGHT HAVE A DIFFERENT SET OF TOOLS YOU USE.
 Convert Arch Linux to a hacking distro
 
 This script is solely for any acrh linux user(or any distro based on arch linux)
