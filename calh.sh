@@ -1,6 +1,7 @@
 #!/bin/bash
 printf "This tool will install all necessary applications in your distro\n"
 printf "Get ready to hack the planet!!\n"
+sleep 5
 wget www.blackarch.org/strap.sh
 chmod +x strap.sh
 sudo ./strap.sh
