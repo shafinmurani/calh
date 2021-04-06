@@ -17,13 +17,13 @@ sudo pacman -S wireshark-qt docker virtualbox nmap hydra nikto xclip sublist3r d
 # Downloading and install oh-my-zsh framework
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 #Downloading Powerlevel10k theme
-git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+git clone https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/themes/powerlevel10k
 #Downloading and installing Fura mono nerd fonts
 sudo mkdir /usr/share/fonts/opentype
 sudo wget -O '/usr/share/fonts/opentype/Fura Mono Regular Nerd Font Complete.otf' "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/FiraMono/Regular/complete/Fura%20Mono%20Regular%20Nerd%20Font%20Complete.otf"
 # Downloading pluigns for syntax highlighting and auto-suggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 #Installing Powerlevel10k theme and tweaking some things in terminal
 cp .zshrc ~/
 #Cleaning up
